@@ -24,4 +24,12 @@ Adventure Works Cycles is a multinational manufacturer and reseller of bicycles 
 
 ## 📊 Dataset
 
-Demo Dashboard Image of Power BI:https://github.com/mdmirzaahmed062/Adventure-Works-Cycles/blob/main/adventure%20work%20powerBI.jpg
+Demo Dashboar
+
+
+d Image of Power BI:https://github.com/mdmirzaahmed062/Adventure-Works-Cycles/blob/main/adventure%20work%20powerBI.jpg
+
+
+Power BI:https://github.com/mdmirzaahmed062/Adventure-Works-Cycles/blob/main/adventure_works_byme.pbix
+
+MYSQL:
