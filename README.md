@@ -32,4 +32,4 @@ d Image of Power BI:https://github.com/mdmirzaahmed062/Adventure-Works-Cycles/bl
 
 Power BI:https://github.com/mdmirzaahmed062/Adventure-Works-Cycles/blob/main/adventure_works_byme.pbix
 
-MYSQL:
+MYSQL:https://github.com/mdmirzaahmed062/Adventure-Works-Cycles/blob/main/adventure_works.sql
