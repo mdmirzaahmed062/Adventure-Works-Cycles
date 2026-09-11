@@ -24,22 +24,9 @@ Adventure Works Cycles is a multinational manufacturer and reseller of bicycles 
 
 ## 📊 Dataset
 
-The AdventureWorks database is Microsoft's official sample dataset, available in several editions:
-- AdventureWorksLT (lightweight version, ideal for BI projects)
-- AdventureWorks (full OLTP version)
-- AdventureWorksDW (data warehouse / OLAP version)
+Raw data set of the Adventure Works Cycles:
 
-Download link: [Microsoft SQL Server Samples](https://github.com/microsoft/sql-server-samples/releases)
 
-## 🚀 Getting Started
-
-### Prerequisites
-- SQL Server / PostgreSQL installed
-- Power BI Desktop or Tableau (optional, for dashboards)
-
-### Installation
-
-```bash
 -- Example for SQL Server
 RESTORE DATABASE AdventureWorks
 FROM DISK = 'path\to\AdventureWorks.bak'
