@@ -14,12 +14,12 @@ Adventure Works Cycles is a multinational manufacturer and reseller of bicycles 
 - Identify trends in sales, customers, and product categories
 - Document insights and recommendations
 
-- 📈 Key Analyses
-Sales performance by region, product category, and time period
-Customer segmentation and repeat purchase behavior
-Inventory and order fulfillment metrics
-Year-over-year revenue growth
-Top-performing products and sales territories
+  ## 📈 Key Analyses
+- Sales performance by region, product category, and time period
+- Customer segmentation and repeat purchase behavior
+- Inventory and order fulfillment metrics
+- Year-over-year revenue growth
+- Top-performing products and sales territories
 
 ## 🗂️ Project Structure
 ## 🛠️ Tech Stack
