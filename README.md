@@ -17,7 +17,7 @@ Adventure Works Cycles is a multinational manufacturer and reseller of bicycles 
 ## 🗂️ Project Structure
 ## 🛠️ Tech Stack
 
-- *Database:* SQL Server / PostgreSQL / MySQL
+- *Database:*  MySQL
 - *Language:* SQL
 - *BI Tools:* Power BI / Tableau
 - *Version Control:* Git & GitHub
